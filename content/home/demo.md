@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "About Therapy"
 subtitle = ""
 
 [design]
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -50,26 +50,27 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+People come in to therapy for all kinds of reasons.  Counselling and psychotherapy can help manage and address a wide range of emotional issues, difficulties and experiences.  It’s not about being “crazy” or “mad”, but it is about making changes – both in your life, and in how you feel.
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+Counselling and psychotherapy come under the broad heading of ‘talking therapies’.  I believe that by talking about and exploring the things that have happened, how you are feeling, and the thoughts you are having, you are then able to make positive changes.  It’s not possible for us to go back in time and change what has already happened, but it is possible to reduce or remove the negative impact that those things may be still be having on you now.
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+Examples of the kinds of things people come to therapy for include:
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+- Stress and anxiety
+- Anger
+- Depression
+- Relationship issues
+- Workplace problems
+- Family difficulties
+- Issues relating to sexuality
+- Knowing that things ‘just don’t feel right’
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+People also choose to come to therapy having experienced significant or difficult events, for example:
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
+- Bereavement
+- Divorce or separation
+- Sexual abuse or assault
+- Harassment
+- Bullying
 
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+Whatever apparent similarities there may be, your individual experience is inevitably unique.  This means that your experience of coming to therapy will also be unique.
