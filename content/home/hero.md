@@ -20,8 +20,8 @@ hero_media = "TN_office_01_1200.jpg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#00007f"
+  gradient_end = "#008dff"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
