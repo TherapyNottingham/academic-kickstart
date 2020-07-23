@@ -48,7 +48,7 @@ local_business_type = "MedicalBusiness"
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Psychotherapy and Supervision"
 
 ############################
 ## Site Features
@@ -100,14 +100,14 @@ address = {street = "Knight & Whitehall House", city = "Nottingham", region = "N
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Appoojntmemts only.  Office E, buzz for entry, stairs to first floor."
+directions = "Appointments only.  Office E, buzz for entry, stairs to first floor."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Monday - Friday 10:00 to 20:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+appointment_url = "https://therapy-nottingham.selectandbook.com/"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
