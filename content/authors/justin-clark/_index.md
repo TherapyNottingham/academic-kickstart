@@ -48,6 +48,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/TherapyNotts
+- icon: phone
+  icon_pack: fas
+  link: "tel:+441157722132"
+- icon: mobile
+  icon_pack: fas
+  link: "tel:+447519821746"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
