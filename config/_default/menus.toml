@@ -21,7 +21,7 @@
 [[main]]
   parent = "AboutMenu"
   name = "How I work"
-  url = "/how_work/"
+  url = "/how_I_work/"
 
 [[main]]
   name = "Fees"
