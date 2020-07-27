@@ -5,23 +5,23 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#hero"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "About"
+  identifier = "AboutMenu"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+  parent = "AboutMenu"
+  name = "About therapy"
+  url = "#about_therapy"
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "Fees"
+  url = "fees/"
+  weight = 30
 
 [[main]]
   name = "Contact"
