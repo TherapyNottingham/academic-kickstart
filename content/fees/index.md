@@ -15,17 +15,12 @@ header:
 ---
 
 ## Psychotherapy and counselling
-
-### Assessments
-For a 50 minute appointment:
-- £50 per session
-
-### Therapy sessions
-For a 50 minute appointment:
+- For assessmets and regular sessions
+- 50 minute appointments
 - £50 per session
 
 ## Supervision
-Appointments booked in 30 minute blocks, minimum 1 hour.
+- Appointments booked in 30 minute blocks, minimum 1 hour
 - £50 per hour
 
 ## Payment
