@@ -17,6 +17,11 @@
   parent = "AboutMenu"
   name = "About therapy"
   url = "#about_therapy"
+  
+[[main]]
+  parent = "AboutMenu"
+  name = "How I work"
+  url = "/how_work/"
 
 [[main]]
   name = "Fees"
