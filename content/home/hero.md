@@ -38,19 +38,19 @@ hero_media = "TN_office_01_1200.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://therapy-nottingham.selectandbook.com/"
-  label = "Book online now"
+  label = "Book an assessment now"
   icon_pack = "fas"
   icon = "calendar-check-o"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
+  url = "#about"
   label = "Find out more..."
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
 **Psychotherapy and Supervision**
 
-Some other words here.
+In person and online video.
