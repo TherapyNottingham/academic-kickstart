@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "cards.jpg"
+  image: "cogs_1200.jpg"
 ---
 {{% toc %}}
 
