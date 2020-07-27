@@ -12,3 +12,4 @@ title = "About me"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "justin-clark"
 +++
+{{< figure library="true" src="TN_office_01_1200.jpg" title="A caption" lightbox="true" >}}
