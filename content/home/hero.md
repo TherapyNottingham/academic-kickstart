@@ -38,12 +38,12 @@ hero_media = "TN_office_01_1200.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://therapy-nottingham.selectandbook.com/"
-  label = "Book an assessment now"
+  label = "Book now"
   icon_pack = "fas"
   icon = "calendar-check-o"
   
 [cta_alt]
-  url = "#about"
+  url = "#about_therapy"
   label = "Find out more..."
 
 # Note. An optional note to show underneath the links.
