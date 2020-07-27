@@ -11,12 +11,26 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "cards.jpg"
 ---
 
-Text here.
+## Psychotherapy and counselling
 
-##Subtitle here
+### Assessments
+For a 50 minute appointment:
+- £50 per session
 
-- list here
-- and here
+### Therapy sessions
+For a 50 minute appointment:
+- £50 per session
+
+## Supervision
+Appointments booked in 30 minute blocks, minimum 1 hour.
+- £50 per hour
+
+## Payment
+Card payments preferred.  Online sessions will be invoiced following the session for payment online.
+By arrangement, monthly invoicing also available.
+
+## Fee review
+Fees are reviewed annually in April.
