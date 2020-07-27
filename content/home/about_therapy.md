@@ -73,4 +73,4 @@ People also choose to come to therapy having experienced significant or difficul
 - Harassment
 - Bullying
 
-Whatever apparent similarities there may be, your individual experience is inevitably unique.  This means that your experience of coming to therapy will also be unique.
+Whatever apparent similarities there may be, your individual experience is inevitably unique.  This means that your experience of coming to therapy will also be unique.  You can [read more about how I work and what I believe here]({{< relref "../how_I_work/" >}}).
