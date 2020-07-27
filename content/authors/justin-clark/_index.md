@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: [Accredited Psychotherapist and Supervisor](https://www.bacp.co.uk/profile/a49a6dca-4d90-e711-80e8-3863bb349ac0) in private practice.
+bio: Accredited Psychotherapist and Supervisor in private practice.
 
 # interests:
 # - Artificial Intelligence
