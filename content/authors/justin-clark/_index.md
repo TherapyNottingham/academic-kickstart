@@ -47,7 +47,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/TherapyNotts
+  link: https://twitter.com/JustinClarkXYZ
 - icon: phone
   icon_pack: fas
   link: "tel:+441157722132"
@@ -70,4 +70,4 @@ email: ""
 # - Visitors
 ---
 
-I am an [Accredited Psychotherapist and Supervisor](https://www.bacp.co.uk/profile/a49a6dca-4d90-e711-80e8-3863bb349ac0) with a private practice in Nottingham, and online.
+I am an [Accredited Psychotherapist and Supervisor](https://www.bacp.co.uk/profile/a49a6dca-4d90-e711-80e8-3863bb349ac0) with a private practice in Nottingham and online.
