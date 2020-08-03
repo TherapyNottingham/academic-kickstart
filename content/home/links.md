@@ -50,11 +50,6 @@ subtitle = "Accreditation, membership, and other places you can find me"
  # CSS class.
  css_class = ""
 
-[[gallery_item]]
-album = "gallery"
-image = "https://github.com/TherapyNottingham/academic-kickstart/blob/master/static/img/BACP%20300x300.png"
-caption = "BACP Accredited"
-
 +++
 
 [BACP](https://www.bacp.co.uk/profile/a49a6dca-4d90-e711-80e8-3863bb349ac0/)
@@ -65,5 +60,3 @@ caption = "BACP Accredited"
 
 [JustinClark.xyz](https://www.justinclark.xyz)
 {{< figure library="true" src="Justin_Clark_300x300.png" title="www.justinclark.xyz" >}}
-
-{{< gallery album = "gallery">}}
