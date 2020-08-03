@@ -13,16 +13,17 @@ header:
   caption: ""
   image: "covid_1200.jpg"
 ---
-{{% toc %}}
 In response to the COVID-19 situation, the following additional practices will be in place at the Therapy Nottingham office from August 2020.
 
 {{% alert warning %}}
 Do NOT come to Therapy Nottingham if you have any symptoms of Covid-19 infection, or have been instructed to self-isolate 
-- If you develop symptoms, or are informed ( e.g. through the Track and Trace systems) that you have been in contact with someone who has, you must inform me immediately. 
-- If I develop symptoms or am informed that I have been in contact with someone who has, it may be necessary for me to disclose our contact in the interest of public safety. 
-- In-person appointments may be subject to further change and temporary reversion to online working in line with future local lockdown or national response. 
 - Online / video appointments are available as an alternative 
 {{% /alert %}}
+
+- If you develop symptoms, or are informed ( e.g. through the Track and Trace systems) that you have been in contact with someone who has, you must inform me immediately. 
+- If I develop symptoms or am informed that I have been in contact with someone who has, it may be necessary for me to disclose our contact in the interest of public safety. 
+- In-person appointments may be subject to further change and temporary reversion to online working in line with local lockdown or national responses. 
+
 {{% alert note %}}
   The most up to date information from NHS is available at [https://www.nhs.uk/conditions/coronavirus-covid-19/](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 {{% /alert %}}
