@@ -22,6 +22,11 @@
   parent = "AboutMenu"
   name = "How I work"
   url = "/how_I_work/"
+  
+[[main]]
+  parent = "AboutMenu"
+  name = "COVID-19"
+  url = "/covid-19/"
 
 [[main]]
   name = "Fees"
