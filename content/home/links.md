@@ -50,7 +50,7 @@ subtitle = "Accreditation, membership, and other places you can find me"
  # CSS class.
  css_class = ""
  
-[gallery_item]
+gallery_item:
  - album: gallery
    image: BACP 300x300.png
    caption: BACP Accredited
@@ -59,7 +59,7 @@ subtitle = "Accreditation, membership, and other places you can find me"
    caption: Listed in the Pink Therapy directory
  - album: gallery
    image: Justin_Clark_300x300.png
-   caption: "www.justinclark.xyz"
+   caption: www.justinclark.xyz
    
 +++
 [BACP](https://www.bacp.co.uk/profile/a49a6dca-4d90-e711-80e8-3863bb349ac0/)
