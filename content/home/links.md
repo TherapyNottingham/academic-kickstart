@@ -50,7 +50,7 @@ subtitle = "Accreditation, membership, and other places you can find me"
  # CSS class.
  css_class = ""
  
-gallery_item:
+[gallery_item]
  - album: gallery
    image: BACP 300x300.png
    caption: BACP Accredited
