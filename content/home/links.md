@@ -53,4 +53,4 @@ subtitle = "Accreditation, membership, and other places you can find me"
 {{< figure library="true" src="BACP 300x300.png" title="BACP Accredited" >}}
 
 [Pink Therapy](http://www.pinktherapy.com/Home/Practitionerprofile/tabid/148/ctl/ViewPractice/mid/403/_UserId/3915/language/en-GB/Default.aspx)
-{{< figure library="true" src="PinkTherapy 300x300.png" title="listed in the Pink Therapy directory" >}}
+{{< figure library="true" src="PinkTherapy 300x300.png" title="Listed in the Pink Therapy directory" >}}
