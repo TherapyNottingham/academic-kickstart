@@ -49,4 +49,8 @@ subtitle = "Accreditation, membership, and other places you can find me"
  # CSS class.
  css_class = ""
 +++
+[BACP](https://www.bacp.co.uk/profile/a49a6dca-4d90-e711-80e8-3863bb349ac0/)
+{{< figure library="true" src="BACP 300x300.png" title="BACP Accredited" >}}
 
+[Pink Therapy](http://www.pinktherapy.com/Home/Practitionerprofile/tabid/148/ctl/ViewPractice/mid/403/_UserId/3915/language/en-GB/Default.aspx)
+{{< figure library="true" src="PinkTherapy 300x300.png" title="listed in the Pink Therapy directory" >}}
