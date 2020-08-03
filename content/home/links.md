@@ -52,8 +52,8 @@ subtitle = "Accreditation, membership, and other places you can find me"
 
 [[gallery_item]]
 album = "gallery"
-image = "Justin_Clark_300x300.png"
-caption = "www.justinclark.xyz"
+image = "https://github.com/TherapyNottingham/academic-kickstart/blob/master/static/img/BACP%20300x300.png"
+caption = "BACP Accredited"
 
 +++
 
