@@ -54,12 +54,6 @@ subtitle = "Accreditation, membership, and other places you can find me"
 
 gallery_item:
  - album: gallery
-   image: BACP_300x300.png
-   caption: BACP Accredited
- - album: gallery
-   image: PinkTherapy_300x300.png
-   caption: Listed in the Pink Therapy directory
- - album: gallery
    image: Justin_Clark_300x300.png
    caption: www.justinclark.xyz
    
