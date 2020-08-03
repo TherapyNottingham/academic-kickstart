@@ -1,5 +1,5 @@
 ---
-title: Coronavirus (covid-19)
+title: Coronavirus (COVID-19)
 summary: Safer working practices
 date: "2020-08-01T00:00:00Z"
 
@@ -11,10 +11,10 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "cogs_1200.jpg"
+  image: "covid_1200.jpg"
 ---
 {{% toc %}}
-In response to the Covid 19 situation, the following additional practices will be in place at the Therapy Nottingham office from August 2020.
+In response to the COVID-19 situation, the following additional practices will be in place at the Therapy Nottingham office from August 2020.
 
 {{% alert warning %}}
 Do NOT come to Therapy Nottingham if you have any symptoms of Covid-19 infection, or have been instructed to self-isolate 
