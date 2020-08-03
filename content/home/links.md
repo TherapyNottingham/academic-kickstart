@@ -66,4 +66,4 @@ caption = "www.justinclark.xyz"
 [JustinClark.xyz](https://www.justinclark.xyz)
 {{< figure library="true" src="Justin_Clark_300x300.png" title="www.justinclark.xyz" >}}
 
-{{< gallery >}}
+{{< gallery album = "gallery">}}
