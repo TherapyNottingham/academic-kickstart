@@ -16,7 +16,7 @@ header:
 In response to the COVID-19 situation, the following additional practices will be in place at the Therapy Nottingham office from August 2020.
 
 {{% alert warning %}}
-Do NOT come to Therapy Nottingham if you have any symptoms of Covid-19 infection, or have been instructed to self-isolate 
+Do NOT come to Therapy Nottingham if you have any symptoms of Coronavirus (COVID-19) infection, or have been instructed to self-isolate 
 - Online / video appointments are available as an alternative 
 {{% /alert %}}
 
