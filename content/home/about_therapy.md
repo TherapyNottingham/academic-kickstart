@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-People come in to therapy for all kinds of reasons.  Counselling and psychotherapy can help manage and address a wide range of emotional issues, difficulties and experiences.  It’s not about being “crazy” or “mad”, but it is about making changes – both in your life, and in how you feel.
+People come to therapy for all kinds of reasons.  Counselling and psychotherapy can help manage and address a wide range of emotional issues, difficulties and experiences.  It’s not about being “crazy” or “mad”, but it is about making changes – both in your life, and in how you feel.
 
 Counselling and psychotherapy come under the broad heading of ‘talking therapies’.  I believe that by talking about and exploring the things that have happened, how you are feeling, and the thoughts you are having, you are then able to make positive changes.  It’s not possible for us to go back in time and change what has already happened, but it is possible to reduce or remove the negative impact that those things may be still be having on you now.
 
