@@ -51,9 +51,9 @@ subtitle = "Accreditation, membership, and other places you can find me"
  css_class = ""
 
 [[gallery_item]]
- - album: gallery
-   image: Justin_Clark_300x300.png
-   caption: www.justinclark.xyz
+album = "gallery"
+image = "Justin_Clark_300x300.png"
+caption = "www.justinclark.xyz"
 
 +++
 
