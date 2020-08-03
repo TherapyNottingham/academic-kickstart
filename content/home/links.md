@@ -14,6 +14,7 @@ subtitle = "Accreditation, membership, and other places you can find me"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
+  view = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
