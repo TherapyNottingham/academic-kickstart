@@ -51,12 +51,13 @@ subtitle = "Accreditation, membership, and other places you can find me"
  css_class = ""
 
 +++
+
 gallery_item:
  - album: gallery
-   image: BACP 300x300.png
+   image: BACP_300x300.png
    caption: BACP Accredited
  - album: gallery
-   image: PinkTherapy 300x300.png
+   image: PinkTherapy_300x300.png
    caption: Listed in the Pink Therapy directory
  - album: gallery
    image: Justin_Clark_300x300.png
