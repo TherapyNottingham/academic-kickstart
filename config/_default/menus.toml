@@ -17,16 +17,19 @@
   parent = "AboutMenu"
   name = "About therapy"
   url = "#about_therapy"
+  weight = 3
   
 [[main]]
   parent = "AboutMenu"
   name = "How I work"
   url = "/how_I_work/"
+  weight = 5
   
 [[main]]
   parent = "AboutMenu"
   name = "COVID-19"
   url = "/covid-19/"
+  weight = 7
 
 [[main]]
   name = "Fees"
