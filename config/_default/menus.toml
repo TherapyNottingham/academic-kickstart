@@ -34,12 +34,12 @@
 [[main]]
   name = "Resources"
   identifier = "ResourcesMenu"
-  weight = 10
+  weight = 250
   
 [[main]]
   parent = "ResourcesMenu"
   name = "What to do in a mental health crisis"
-  url = "/what_to_do_in_mental_health_crisis/"
+  url = "/what_to_do_in_a_mental_health_crisis/"
   weight = 1
 
 [[main]]
