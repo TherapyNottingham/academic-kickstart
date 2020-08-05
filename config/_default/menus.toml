@@ -32,6 +32,17 @@
   weight = 7
 
 [[main]]
+  name = "Resources"
+  identifier = "ResourcesMenu"
+  weight = 10
+  
+[[main]]
+  parent = "ResourcesMenu"
+  name = "What to do in a mental health crisis"
+  url = "/what_to_do_in_mental_health_crisis/"
+  weight = 1
+
+[[main]]
   name = "Fees"
   url = "fees/"
   weight = 30
