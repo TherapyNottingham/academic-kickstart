@@ -34,7 +34,7 @@
 [[main]]
   name = "Resources"
   identifier = "ResourcesMenu"
-  weight = 250
+  weight = 25
   
 [[main]]
   parent = "ResourcesMenu"
