@@ -33,3 +33,15 @@ If you can keep yourself safe for a short while, but you still need urgent advic
 - contact NHS 111 if you live in England
 - contact NHS 111 or NHS Direct (0845 46 47) if you live in Wales
 - contact your GP surgery and ask for an emergency appointment. Many GPs are now offering these remotely because of coronavirus.
+
+# Do you need some urgent coping tools?
+
+[MIND](https://www.mind.org.uk/need-urgent-help/) has some crisis resources that you can use right away, by yourself, wherever you are.
+[Click here to access these.](https://www.mind.org.uk/need-urgent-help/)
+
+# If you need to talk right now
+
+Whatever you're going through, there are people you can talk to any time. You can:
+
+- call [Samaritans](https://www.samaritans.org/how-we-can-help/contact-samaritan/) on [116 123](tel:116123) (UK-wide)
+- text [SHOUT](https://www.giveusashout.org/) to [85258](sms:85258) (UK-wide)
