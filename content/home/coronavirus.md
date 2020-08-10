@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 13  # Order that this section will appear.
 
 title = "Coronavirus"
-subtitle = "The current Coronavirus (COVID-19) status at therapy Nottingham"
+subtitle = "The current Coronavirus (COVID-19) status and response at Therapy Nottingham"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
