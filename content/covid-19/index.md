@@ -13,7 +13,7 @@ header:
   caption: ""
   image: "covid_1200.jpg"
 ---
-In response to the COVID-19 situation, the following additional practices will be in place at the Therapy Nottingham office from August 2020.
+In response to the COVID-19 situation, the following additional practices are currently in place at the Therapy Nottingham.  For the latest [status and availability for in-person appointmnets see here]({{< relref "../#coronavirus" >}}).
 
 {{% alert warning %}}
 Do NOT come to Therapy Nottingham if you have any symptoms of Coronavirus (COVID-19) infection, or have been instructed to self-isolate 
