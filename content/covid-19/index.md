@@ -20,9 +20,9 @@ Do NOT come to Therapy Nottingham if you have any symptoms of Coronavirus (COVID
 - Online / video appointments are available as an alternative 
 {{% /alert %}}
 
-- If you develop symptoms, or are informed ( e.g. through the Track and Trace systems) that you have been in contact with someone who has, you must inform me immediately. 
+- If you develop symptoms, or are informed ( e.g. through the Test and Trace systems) that you have been in contact with someone who has, you must inform me immediately. 
 - If I develop symptoms or am informed that I have been in contact with someone who has, it may be necessary for me to disclose our contact in the interest of public safety. 
-- In-person appointments may be subject to further change and temporary reversion to online working in line with local lockdown or national responses. 
+- In-person appointments may be subject to further change and temporary reversion to online working in line with guidance from professional bodies, local lockdown or national responses. 
 
 {{% alert note %}}
   The most up to date information from NHS is available at [https://www.nhs.uk/conditions/coronavirus-covid-19/](https://www.nhs.uk/conditions/coronavirus-covid-19/)
@@ -30,11 +30,13 @@ Do NOT come to Therapy Nottingham if you have any symptoms of Coronavirus (COVID
 
 # Arriving and leaving
 
-- Do not arrive early for appointments, and move directly to the office (or exit) Make use of hand sanitiser on entering the building
-- Do not spend unnecessary time in shared areas 
+- Do not arrive early for appointments, and move directly to the office (or exit)
+- Make use of hand sanitiser on entering the building
+- Do not spend unnecessary time in shared areas
+- Everyone is expected to wear a mask when entering he building and at all times in shared spaces [unless excepted](https://www.gov.uk/government/publications/face-coverings-when-to-wear-one-and-how-to-make-your-own/face-coverings-when-to-wear-one-and-how-to-make-your-own).
 
 # Corridors and stairways
-- Wear a face mask whenever in shared spaces 
+- Wear a face mask whenever in shared spaces, including when arriving and leaving the building 
 
 # In the office
 - Hand sanitiser is available in the office
@@ -52,3 +54,5 @@ Do NOT come to Therapy Nottingham if you have any symptoms of Coronavirus (COVID
 - Please wipe down surfaces before and after using with the supplied wipes 
 
 These practices will be reviewed regularly and may be further amended to reflect changes in good practice, legislation, guidance, and recommendations.
+
+Last review: 10/08/2020
