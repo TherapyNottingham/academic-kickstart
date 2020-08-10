@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 105  # Order that this section will appear.
+weight = 13  # Order that this section will appear.
 
 title = "Coronavirus"
 subtitle = "The current Coronavirus (COVID-19) status at therapy Nottingham"
@@ -51,10 +51,20 @@ subtitle = "The current Coronavirus (COVID-19) status at therapy Nottingham"
  css_class = ""
 
 +++
+Last reviewed: 10/08/2020
 
-The latest Coronavirus practices at Therpy Nottingham are avalilable here.
+The Coronavirus (COVID-19) situation continues to evolve rapidly.  My intention is to always work safely, and within the various legislation and guidance available from both Goverbment and my professional bodies.  As such, there can be some variability and relatively short-notice changes.
+
+The latest Coronavirus practices at Therpy Nottingham are avalilable [here]({{< relref "../covid-19/" >}}).
 
 # Face to face sessions
+{{% alert warning %}}
+**Not currently available.**
+I am hopeful that I can return to in-person meetings soon.  This situation will be reviewed again for September 2020.
+{{% /alert %}}
 
 # Online / video sessions
+{{% alert note %}}
+Available for new and exisitng clients using [Zoom](https://zoom.us)
+{{% /alert %}}
 
