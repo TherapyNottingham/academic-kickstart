@@ -59,4 +59,4 @@ subtitle = "Accreditation, membership, and other places you can find me"
 {{< figure library="true" src="PinkTherapy 300x300.png" title="Listed in the Pink Therapy directory" >}}
 
 [JustinClark.xyz](https://www.justinclark.xyz)
-{{< figure library="true" src="Justin_Clark_300x300.png" title="www.justinclark.xyz" >}}
+{{< figure library="true" src="Justin_Clark_300x300.jp2" title="www.justinclark.xyz" >}}
