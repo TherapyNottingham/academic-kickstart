@@ -61,7 +61,7 @@ The latest Coronavirus practices at Therapy Nottingham are avalilable [here]({{<
 {{% alert warning %}}
 **Not currently available.**
 
-I am hopeful that I can return to in-person meetings soon.  This situation will be reviewed again for September 2020.
+I am hopeful that I can return to offering in-person meetings soon.  I am regularly reviewing this situation, but at the moment there is no proposed date for this to happen.
 {{% /alert %}}
 
 # Online / video sessions
