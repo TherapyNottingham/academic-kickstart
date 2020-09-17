@@ -51,7 +51,7 @@ subtitle = "The current Coronavirus (COVID-19) status and response at Therapy No
  css_class = ""
 
 +++
-Last reviewed: 21/08/2020
+Last reviewed: 14 September 2020
 
 The Coronavirus (COVID-19) situation continues to evolve rapidly.  My intention is to always work safely, and within the various legislation and guidance available from both Goverbment and my professional bodies.  As such, there can be some variability and relatively short-notice changes.
 
