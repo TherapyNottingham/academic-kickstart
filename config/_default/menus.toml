@@ -43,6 +43,12 @@
   weight = 1
 
 [[main]]
+  parent = "ResourcesMenu"
+  name = "Session feedback"
+  url = "/session_feedback/"
+  weight = 5
+  
+[[main]]
   name = "Fees"
   url = "fees/"
   weight = 30
