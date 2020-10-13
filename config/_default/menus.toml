@@ -47,6 +47,12 @@
   name = "Session feedback"
   url = "/session_feedback/"
   weight = 5
+
+[[main]]
+  parent = "ResourcesMenu"
+  name = "WSM EAP Assessment"
+  url = "/wsm_assessment/"
+  weight = 10
   
 [[main]]
   name = "Fees"
