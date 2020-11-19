@@ -15,7 +15,7 @@ header:
 ---
 
 ## Psychotherapy and counselling
-- For assessmets and regular sessions
+- For assessments and regular sessions
 - 50 minute appointments
 - £50 per session
 
