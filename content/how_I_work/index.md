@@ -42,7 +42,7 @@ I work within the [BACP Ethical framework](https://www.bacp.co.uk/events-and-res
 
 ## What I believe
 
-There are many different styles, modalities and theories that therapists work within.  As an Integrative psyhotherapist I work with a relational and developmental focus, which is underpinned by some core humanistic values.  For most people that doesn’t mean very much, so this is what I mean.
+There are many different styles, modalities and theories that therapists work within.  As an Integrative psychotherapist I work with a relational and developmental focus, which is underpinned by some core humanistic values.  For most people that doesn’t mean very much, so this is what I mean.
 
 Humanistic therapies are all based broadly similar beliefs, and there are many theories and ways of understanding people that have stemmed from this.  But there are also lots of other ways to approach this.  I don’t stick rigidly to ‘a way to do therapy’ but incorporate aspects of many different theories including some of the ‘non-humanistic’ ones.  I do this because I believe that they are useful and helpful to the work of therapy.  Just as no two people are ever the same, I don’t believe that any one sort of therapy can ever be adequate for everyone.
 
