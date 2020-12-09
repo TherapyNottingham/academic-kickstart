@@ -24,7 +24,8 @@ header:
 - £50 per hour
 
 ## Payment
-Card payments preferred.  Online sessions will be invoiced following the session for payment online.
+Card payments or Direct Debit preferred.  Online sessions will be invoiced following the session, which can be paid online.
+
 By arrangement, monthly invoicing also available.
 
 ## Fee review
