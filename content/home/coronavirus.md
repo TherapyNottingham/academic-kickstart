@@ -51,7 +51,7 @@ subtitle = "The current Coronavirus (COVID-19) status and response at Therapy No
  css_class = ""
 
 +++
-Last reviewed: 18 November 2020
+Last reviewed: 11 January 2021
 
 The Coronavirus (COVID-19) situation continues to evolve rapidly.  My intention is to always work safely, and within the various legislation and guidance available from both Goverbment and my professional bodies.  As such, there can be some variability and relatively short-notice changes.
 
@@ -61,7 +61,7 @@ The latest Coronavirus practices at Therapy Nottingham are avalilable [here]({{<
 {{% alert warning %}}
 **Not currently available.**
 
-I am hopeful that I can return to offering in-person meetings soon.  I am regularly reviewing this situation, but at the moment there is no proposed date for this to happen.
+I am hopeful that I can return to offering in-person meeting later in the year.  I am regularly reviewing this situation, but at the moment there is no proposed date for this to happen.
 {{% /alert %}}
 
 # Online / video sessions
