@@ -44,7 +44,13 @@
 
 [[main]]
   parent = "ResourcesMenu"
-  name = "Session feedback"
+  name = "Pre-Session Assessment"
+  url = "/pre_session_assessment/"
+  weight = 4
+  
+[[main]]
+  parent = "ResourcesMenu"
+  name = "Post-Session Feedback"
   url = "/session_feedback/"
   weight = 5
 
