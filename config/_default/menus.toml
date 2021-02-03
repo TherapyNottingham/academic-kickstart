@@ -44,6 +44,12 @@
 
 [[main]]
   parent = "ResourcesMenu"
+  name = "Pre-Assessment Information"
+  url = "/pre_assessment_information/"
+  weight = 3
+  
+ [[main]]
+  parent = "ResourcesMenu"
   name = "Pre-Session Assessment"
   url = "/pre_session_assessment/"
   weight = 4
