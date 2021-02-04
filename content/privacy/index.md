@@ -15,7 +15,7 @@ header:
 ---
 {{% toc %}}
 
-This privacy policy explains how we use any personal information we collect about you when you use this website, use electronic forms to submit or request information, or complete written or electron assessments during the process of therapy.
+This privacy policy explains how we use any personal information we collect about you when you use this website, use online forms to submit or request information, or complete written or online assessments during the process of therapy.
 
 ## What information do we collect about you?
 
