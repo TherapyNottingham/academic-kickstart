@@ -32,10 +32,16 @@
   weight = 7
 
 [[main]]
+  parent = "AboutMenu"
+  name = "Privacy"
+  url = "privacy/"
+  weight = 100
+  
+[[main]]
   name = "Resources"
   identifier = "ResourcesMenu"
   weight = 25
-  
+
 [[main]]
   parent = "ResourcesMenu"
   name = "What to do in a mental health crisis"
@@ -43,38 +49,38 @@
   weight = 1
 
 [[main]]
-  parent = "ResourcesMenu"
-  name = "Pre-Assessment Information"
-  url = "/pre_assessment_information/"
-  weight = 3
-  
- [[main]]
-  parent = "ResourcesMenu"
-  name = "Pre-Session Assessment"
-  url = "/pre_session_assessment/"
-  weight = 4
-  
-[[main]]
-  parent = "ResourcesMenu"
-  name = "Post-Session Feedback"
-  url = "/session_feedback/"
-  weight = 5
+  name = "Forms"
+  identifier = "FormsMenu"
+  weight = 30
 
 [[main]]
-  parent = "ResourcesMenu"
+  parent = "FormsMenu"
+  name = "Pre-Assessment Information"
+  url = "/pre_assessment_information/"
+  weight = 11
+  
+ [[main]]
+  parent = "FormsMenu"
+  name = "Pre-Session Assessment"
+  url = "/pre_session_assessment/"
+  weight = 22
+  
+[[main]]
+  parent = "FormsMenu"
+  name = "Post-Session Feedback"
+  url = "/session_feedback/"
+  weight = 33
+
+[[main]]
+  parent = "FormsMenu"
   name = "WSM EAP Assessment"
   url = "/wsm_assessment/"
-  weight = 10
+  weight = 44
   
 [[main]]
   name = "Fees"
   url = "fees/"
-  weight = 30
-
-[[main]]
-  name = "Privacy"
-  url = "privacy/"
-  weight = 70
+  weight = 50
 
 [[main]]
   name = "Contact"
